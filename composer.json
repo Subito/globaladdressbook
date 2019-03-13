@@ -1,0 +1,15 @@
+{
+    "name": "Global Address Book",
+    "description": "Displays the Email Addresses and Phone Numbers of local Users",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Filias Heidt"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
